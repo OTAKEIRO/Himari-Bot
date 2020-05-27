@@ -1,6 +1,6 @@
 {
   "name": "himari",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A Melhor bot do Mestre Otakeiro!",
   "main": "index.js",
   "scripts": {
