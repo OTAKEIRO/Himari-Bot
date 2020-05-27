@@ -1,19 +1,14 @@
 {
   "name": "himari",
   "version": "1.0.0",
-  "description": "A Melhor bot do Mestre Otakeiro!",
+  "description": "O Primeiro bot do Otakeiro",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/OTAKEIRO/Himari-Bot.git"
-  },
-  "author": "OTAKEIRO",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/OTAKEIRO/Himari-Bot/issues"
-  },
-  "homepage": "https://github.com/OTAKEIRO/Himari-Bot#readme"
+  "author": "Otakeiro",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
 }
